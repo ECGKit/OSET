@@ -37,6 +37,4 @@ Please cite OSET as follows: R. Sameni, OSET: The open-source electrophysiologic
 
 ## CONTACT
 Reza Sameni,
-School of Electrical & Computer Engineering, Shiraz University, Shiraz, Iran
-Email: <reza.sameni@gmail.com>
-Web: [www.sameni.info](www.sameni.info)
+School of Electrical & Computer Engineering, Shiraz University, Shiraz, Iran. Email: <reza.sameni@gmail.com>, Web: [www.sameni.info](www.sameni.info)
